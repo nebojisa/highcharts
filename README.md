@@ -1,0 +1,4 @@
+highcharts
+==========
+
+Testing Highcharts functionality
